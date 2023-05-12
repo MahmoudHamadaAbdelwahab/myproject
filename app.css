@@ -1,5 +1,5 @@
 body{
-    background-color: #333;
+    background-color: #535353;
     padding: 50px;
 }
 .container{
@@ -10,5 +10,5 @@ body{
 }
 .container h2{
     font-size: 35px;
-    color: red;
+    color: rgb(26, 0, 156);
 }
